@@ -1,0 +1,17 @@
+{
+  "name": "bluesky-year-review",
+  "version": "1.0.0",
+  "description": "Bluesky 2025年振り返りツール",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": ["bluesky", "year-review"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
